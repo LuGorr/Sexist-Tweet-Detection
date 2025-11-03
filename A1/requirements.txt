@@ -4,3 +4,4 @@ nltk==3.9.0
 gensim==4.4.0
 tensorflow==2.14.0
 keras==2.14.0
+scikeras==0.13.0
