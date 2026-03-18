@@ -47,4 +47,3 @@ This repository contains two distinct approaches to the task of sexism detection
 * Ludovico Gorrieri
 * Alessandro Capialbi
 * Giacomo Antonelli 
-(University of Bologna )
