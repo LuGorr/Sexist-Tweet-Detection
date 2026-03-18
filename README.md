@@ -1,4 +1,4 @@
-# Sexism Detection Projects: NLP Assignments 1 & 2
+# Sexist Tweet Detection
 
 This repository contains two distinct approaches to the task of sexism detection in social media text (tweets), developed as part of the Master’s Degree in Artificial Intelligence at the University of Bologna.
 
